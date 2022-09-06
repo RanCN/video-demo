@@ -1,0 +1,26 @@
+.video-demo {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.video-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 60%;
+}
+
+.video-action {
+    display: flex;
+    margin-top: 20px;
+}
+
+video {
+    width: 100%;
+}
+
+#myVideo {
+    width: 600px;
+    height: 400px;
+}
